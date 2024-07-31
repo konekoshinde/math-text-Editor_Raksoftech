@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ![](https://github.com/konekoshinde/math-text-Editor_Raksoftech/blob/main/public/Screenshot%20(89).png)
+![](https://github.com/konekoshinde/math-text-Editor_Raksoftech/blob/main/public/Screenshot%202024-07-31%20170312.png)
 ## Getting Started
 
 First, run the development server:
